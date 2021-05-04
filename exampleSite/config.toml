@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
+address = "Hamilton, Ontario"
+author = "Matt Spencer"
+copyright = ""
+description = "Web Design Services by Matt Spencer"
 email = "steve.fruits@email.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = ""
 theme_color = "#a7bf2e"
 [params.contact]
 enable = true
