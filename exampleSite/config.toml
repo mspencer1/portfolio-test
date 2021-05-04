@@ -2,15 +2,11 @@ baseURL = "https://mattspencerdigital.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Matt Spencer Digital"
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
