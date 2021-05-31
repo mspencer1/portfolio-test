@@ -3,11 +3,16 @@ banner:
   title: Hi! I’m <br> Matt <br> Digital Designer
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: "I am a graphic designer based in Hamilton working mainly on web design,
+    packaging and print production. Passionately curious creative, artistic, innovative,
+    independent, good in group projects and strong in leading positions. Always thinking
+    outside the box. \n\nI have an affection for all things design related and love
+    to see a finished product that I had a hand in creating. Making creative and new
+    designs is one of my favourite things to do. I strive to constantly enhance my
+    design skills and I’m always ready to learn something new. With the experience
+    gained through my time in the industry, I have been given the opportunity to understand
+    and execute the many design processes, including web design, print production,
+    and package design with great proficiency."
   button:
     enable: true
     label: know more
